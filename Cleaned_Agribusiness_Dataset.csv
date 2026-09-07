@@ -1,0 +1,15 @@
+State,Crop,Year,Rainfall_mm,Yield_kg_per_ha,Avg_Temp_C,Rainfall_Normalized
+Punjab,Wheat,2023,520.0,4500.0,22.0,0.1
+Haryana,Wheat,2023,480.0,4300.0,24.0,0.082
+Uttar Pradesh,Rice,2023,900.0,3200.0,27.0,0.273
+Bihar,Rice,2023,1100.0,2800.0,26.0,0.364
+Maharashtra,Sugarcane,2023,780.0,6837.5,29.0,0.218
+Karnataka,Maize,2023,620.0,3400.0,25.0,0.145
+Gujarat,Cotton,2023,400.0,1800.0,31.0,0.045
+Madhya Pradesh,Soybean,2023,650.0,2100.0,28.0,0.159
+Rajasthan,Millet,2023,300.0,1400.0,30.0,0.0
+West Bengal,Rice,2023,1500.0,3500.0,27.0,0.545
+Assam,Tea,2023,780.0,2000.0,24.0,0.218
+Kerala,Coconut,2023,2500.0,3200.0,27.0,1.0
+Odisha,Rice,2023,1300.0,3100.0,27.0,0.455
+Tamil Nadu,Rice,2023,900.0,6837.5,28.0,0.273
