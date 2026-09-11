@@ -1,21 +1,27 @@
-# Agribusiness Data Cleaning Project
-Machine Learning data cleaning and preprocessing project using an agribusiness crop production dataset with Python (Pandas &amp; NumPy)
+# Agribusiness Data Analysis
 
-## Objective
-Clean and preprocess an agribusiness dataset for machine learning.
+## Project Overview
+This project presents a complete data analysis workflow on an agribusiness dataset as part of a Machine Learning Data Analyst internship.
 
-## Files
-- Cleaned_Agribusiness_Dataset.csv
-- Agribusiness_Data_Cleaning_Report.docx
+- **Week 1:** Data cleaning and preprocessing
+- **Week 2:** Exploratory Data Analysis (EDA)
 
-## Data Cleaning Steps
-- Removed duplicates
-- Handled missing values using median imputation
-- Treated outliers with the IQR method
-- Applied Min-Max normalization to rainfall data
+The objective is to analyze agricultural data using statistical methods and visualizations to identify distributions, relationships, trends, correlations, and potential anomalies.
 
 ## Tools Used
 - Python
 - Pandas
-- NumPy
+- Matplotlib
 - Microsoft Word
+
+## Project Files
+- `Cleaned_Agribusiness_Dataset.csv` – Cleaned dataset
+- `Week_1_Data_Cleaning_Report.docx` – Data cleaning report
+- `Week_2_EDA_Report.docx` – Exploratory Data Analysis report
+
+## Key Insights
+- Performed descriptive statistical analysis of numerical features.
+- Visualized data distributions using histograms.
+- Analyzed relationships between variables with scatter plots.
+- Identified correlations using a heatmap.
+- Generated insights to support future machine learning and business decision-making.
